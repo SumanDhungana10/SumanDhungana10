@@ -10,8 +10,8 @@
 - Soch College of It (Bsc.CSIT 2076)
 
 ### Connect with me
--[Linkedln](linkedin.com/in/suman-dhungana-a945862a4)
--[Facebook](https://www.facebook.com/suman.dhungana.5680)
+- [Linkedln](linkedin.com/in/suman-dhungana-a945862a4)
+- [Facebook](https://www.facebook.com/suman.dhungana.5680)
 
 ### Exprience
 - Flutter Internship at Thulo Technology
