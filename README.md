@@ -1,9 +1,6 @@
 ### Suman Dhugana
 👋 Hello! I'm Suman Dhungana, a passionate Flutter developer from Nepal. Currently, I'm honing my skills through an internship at Thulo Technology. Excited about all things Flutter and mobile app development. Let's code and create something amazing together! 🚀
 
-### My Works
-
-
 ### Education
 - Shree Bharati Bhawan Secondary School(SEE 2073)
 - Shree Bharati Bhawan Secondary School(+2 2076)
